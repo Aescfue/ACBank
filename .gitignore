@@ -1,2 +1,6 @@
 
 src/config/auth.py
+src/telegram/*
+.idea/*
+src/__pycache__/*
+*.log
